@@ -1,0 +1,23 @@
+{
+  "name": "estudos-javascript-e-desenvolvimento-web",
+  "version": "1.0.0",
+  "description": "arquivos relativos aos meus estudos de javascript e desenvolvimento web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasPereiraMiranda/estudos-javascript-e-desenvolvimento-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasPereiraMiranda/estudos-javascript-e-desenvolvimento-web/issues"
+  },
+  "homepage": "https://github.com/LucasPereiraMiranda/estudos-javascript-e-desenvolvimento-web#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
