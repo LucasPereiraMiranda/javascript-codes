@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/LucasPereiraMiranda/estudos-javascript-e-desenvolvimento-web#readme",
   "dependencies": {
+    "eslint": "^6.5.1",
     "lodash": "^4.17.15"
   }
 }
